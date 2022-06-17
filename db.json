@@ -2,7 +2,7 @@
   "catalog": [
     {
       "id": 1,
-      "photo" : "@/assets",
+      "photo" : "@/assets/android-chrome-192x192.png",
       "name": "Бензопила",
       "price": 1,
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
