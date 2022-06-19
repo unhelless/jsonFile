@@ -35,5 +35,33 @@
       "price": 0,
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
     }
+  ],
+  "property"[
+  {
+    "color":{
+      "id": 1,
+      "id_item": 1,
+      "value": "Husqwarna",
+      "count":15
+    },
+    "size":{
+      "id":2,
+      "id_prop":1,
+      "value": "XS",
+      "count": 1,
+    },
+    "size":{
+      "id":3,
+      "id_prop":1,
+      "value": "XL",
+      "count": 1,
+    },
+    "size":{
+      "id":4,
+      "id_prop":1,
+      "value": "S",
+      "count": 0,
+    }
+  }
   ]
 }
