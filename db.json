@@ -6,6 +6,20 @@
       "name": "Бензопила",
       "price": 1,
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+      "property":[
+      {
+        "id":0
+        "name":"color",
+        "value":"white",
+      },
+      {
+        "id":1
+        "name":"size",
+        "value":"XS",
+        "mergeId": "white",
+        "count":12
+      }
+      ]
     },
     {
       "id": 2,
@@ -36,28 +50,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
     }
   ],
-  "property": [
-    {
-      "id": 1,
-      "name": "color",
-      "id_item": 1,
-      "value": "White"
-    },
-    {
-      "id": 2,
-      "name": "size",
-      "id_item": 1,
-      "value": "XS",
-      "count": 12
-    },
-    {
-      "id": 2,
-      "name": "size",
-      "id_item": 1,
-      "value": "XL",
-      "count": 0
-    }
-  ],
+ 
   "basket": [
     {
       "id": 1,
