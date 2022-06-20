@@ -38,32 +38,28 @@
   ],
   "property": [
     {
-      "name":"color",
       "id": 1,
+      "name": "color",
       "id_item": 1,
-      "value": "Husqwarna",
-      "count":15
+      "value": "White"
     },
     {
-      "name":"size",
-      "id":2,
-      "id_prop":1,
-      "value": "XS",
-      "count": 1
+      "id": 1,
+      "name": "size",
+      "id_item": 1,
+      "value": "XS"
     },
     {
-      "name":"size",
-      "id":3,
-      "id_prop":1,
-      "value": "XL",
-      "count": 1
+      "id": 2,
+      "name": "size",
+      "id_item": 1,
+      "value": "XL"
     },
     {
-      "name":"size",
-      "id":4,
-      "id_prop":1,
-      "value": "S",
-      "count": 0
-    }
+      "id": 3,
+      "name": "size",
+      "id_item": 1,
+      "value": "S"
+    },
   ]
 }
