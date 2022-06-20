@@ -38,25 +38,29 @@
   ],
   "property": [
   {
-    "color":{
+    {
+      "name":"color"
       "id": 1,
       "id_item": 1,
       "value": "Husqwarna",
       "count":15
     },
-    "size":{
+    {
+      "name":"size"
       "id":2,
       "id_prop":1,
       "value": "XS",
       "count": 1,
     },
-    "size":{
+    {
+      "name":"size"
       "id":3,
       "id_prop":1,
       "value": "XL",
       "count": 1,
     },
-    "size":{
+    {
+      "name":"size"
       "id":4,
       "id_prop":1,
       "value": "S",
