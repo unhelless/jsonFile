@@ -37,7 +37,6 @@
     }
   ],
   "property": [
-  {
     {
       "name":"color"
       "id": 1,
@@ -66,6 +65,5 @@
       "value": "S",
       "count": 0,
     }
-  }
   ]
 }
