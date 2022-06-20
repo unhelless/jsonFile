@@ -39,13 +39,23 @@
   "property": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "color",
+      "id_item": 1,
+      "value": "White"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "size",
+      "id_item": 1,
+      "value": "XS",
+      "count": 12
+    },
+    {
+      "id": 2,
+      "name": "size",
+      "id_item": 1,
+      "value": "XL",
+      "count": 0
     }
   ],
   "basket": [
