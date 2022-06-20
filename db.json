@@ -49,21 +49,21 @@
       "id":2,
       "id_prop":1,
       "value": "XS",
-      "count": 1,
+      "count": 1
     },
     {
       "name":"size",
       "id":3,
       "id_prop":1,
       "value": "XL",
-      "count": 1,
+      "count": 1
     },
     {
       "name":"size",
       "id":4,
       "id_prop":1,
       "value": "S",
-      "count": 0,
+      "count": 0
     }
   ]
 }
