@@ -5,20 +5,20 @@
       "photo" : "@/img/icons/android-chrome-192x192.png",
       "name": "Бензопила",
       "price": 1,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae.",
       "property":[
-      {
-        "id":0,
-        "name":"color",
-        "value":"white"
-      },
-      {
-        "id":1,
-        "name":"size",
-        "value":"XS",
-        "mergeId": "white",
-        "count":12
-      }
+        {
+          "id":0,
+          "name":"color",
+          "value":"white"
+        },
+        {
+          "id":1,
+          "name":"size",
+          "value":"XS",
+          "mergeId": "white",
+          "count":12
+        }
       ]
     },
     {
@@ -50,7 +50,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium culpa deleniti eius eligendi exercitationem in iusto, maxime molestias officia officiis repellat vel. Blanditiis corporis illum libero maxime necessitatibus totam vitae."
     }
   ],
- 
+
   "basket": [
     {
       "id": 1,
